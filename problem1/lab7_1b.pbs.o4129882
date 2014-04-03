@@ -1,0 +1,30 @@
+ModuleCmd_Load.c(204):ERROR:105: Unable to locate a modulefile for 'qt/4.7.3'
+ModuleCmd_Load.c(204):ERROR:105: Unable to locate a modulefile for 'qt/4.7.3'
+
+gcc: /usr/global/gcc/4.8.2/bin/gcc
+python: /gpfs/group/icecube/tools_v4/additional_tools/Python-2.7.2/bin/python
+root: /gpfs/group/icecube/tools_v4/i3_tools_4/root-v5.34.03/bin/root
+genie: /gpfs/group/icecube/tools_v4/i3_tools_4/Genie-2.6.4/bin/genie
+
+
+
+Job started on lionxf63.hpc.rcc.psu.edu at Thu Apr  3 13:43:24 EDT 2014
+
+elapsed time: 7.821354457 seconds
+Job ended on lionxf63.hpc.rcc.psu.edu at Thu Apr  3 13:43:46 EDT 2014
+ModuleCmd_Load.c(204):ERROR:105: Unable to locate a modulefile for 'qt/4.7.3'
+ModuleCmd_Load.c(204):ERROR:105: Unable to locate a modulefile for 'qt/4.7.3'
+ModuleCmd_Load.c(204):ERROR:105: Unable to locate a modulefile for 'qt/4.7.3'
+ModuleCmd_Load.c(204):ERROR:105: Unable to locate a modulefile for 'qt/4.7.3'
+
+
+gcc: /usr/global/gcc/4.8.2/bin/gcc
+gcc: /usr/global/gcc/4.8.2/bin/gcc
+python: /gpfs/group/icecube/tools_v4/additional_tools/Python-2.7.2/bin/python
+python: /gpfs/group/icecube/tools_v4/additional_tools/Python-2.7.2/bin/python
+root: /gpfs/group/icecube/tools_v4/i3_tools_4/root-v5.34.03/bin/root
+root: /gpfs/group/icecube/tools_v4/i3_tools_4/root-v5.34.03/bin/root
+genie: /gpfs/group/icecube/tools_v4/i3_tools_4/Genie-2.6.4/bin/genie
+
+genie: /gpfs/group/icecube/tools_v4/i3_tools_4/Genie-2.6.4/bin/genie
+
