@@ -27,7 +27,7 @@ P = parsed_args["p"]
 output_file = string("lab7_2_",N,"n_",P,"p.csv")
 
 function get_time()
-	(a,b) = time_int_normal_pdf_functions()
+	(a,b) = time_int_normal_pdf_functions(100000000)
 	[a,b]
 end
 
